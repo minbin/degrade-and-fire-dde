@@ -1,4 +1,4 @@
-# delay-and-fire-dde
+# degrade-and-fire-dde
 
 |α  |γr|C₀|τ |ß  |R₀|p           |result    |
 |---|--|--|--|---|--|------------|----------|
